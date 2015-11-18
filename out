@@ -1,4 +1,4 @@
-Error          POP_SIZE       Dim            mChance_1      mChance_2      mChance_3      Time
+Error          POP_SIZE       Dim            mutChance_Ind  mutChance_Gen  mutChance_Bit  Time
 6.21469e-09    100            2              20             30             20             1.33146        
 3.44146e-09    200            2              20             30             20             1.84554        
 1.63425e-12    400            2              20             30             20             6.68132        
@@ -20,3 +20,4 @@ Error          POP_SIZE       Dim            mChance_1      mChance_2      mChan
 19.4968        100            16             20             30             20             4.64327        
 16.8514        200            16             20             30             20             10.4702        
 9.18334        400            16             20             30             20             24.3728        
+6.52594        800            16             20             30             20             48.8187        
